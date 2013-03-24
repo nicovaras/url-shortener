@@ -6,4 +6,5 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [ring "1.1.8"]
                  [compojure "1.1.5"]
-                 [enlive "1.1.1"]])
+                 [enlive "1.1.1"]]
+   :dev-dependencies [[lein-reload "1.0.0"]])
